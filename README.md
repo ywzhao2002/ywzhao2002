@@ -5,8 +5,11 @@ tats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ywzhao2002" alt="Yunwei's Github stats">
 </a>
 
-- 🔭 I’m currently working in AeroSpec and Husky Help Organization.
 - 🌱 I’m currently learning Natural Language Processing, Computer Vision, and GRE.
+- 🛠️ Have a flexible work schedule
+- 🎯 Working towards todo list/inbox zero
+- 💨 Coding in [AeroSpec](https://www.aerospec.io/)
+- 📚 Time spent on [school work](https://cs.washington.edu/yzhao4/):
 - 📫 How to reach me: [my Linkedin](www.linkedin.com/in/yunweizhao)
 - 😀 Pronouns: he/him/they/...
 
