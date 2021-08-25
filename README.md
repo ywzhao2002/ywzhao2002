@@ -6,7 +6,7 @@ tats">
 </a>
 
 - 🌱 I’m currently learning Natural Language Processing, Computer Vision, and GRE.
-- 🛠️ Have a flexible work schedule
+- 🛠️ Having a flexible work schedule
 - 🎯 Working towards todo list/inbox zero
 - 💨 Coding in [AeroSpec](https://www.aerospec.io/)
 - 📚 Time spent on [school work](https://cs.washington.edu/yzhao4/):
