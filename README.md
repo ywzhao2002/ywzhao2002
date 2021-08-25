@@ -8,7 +8,7 @@
 - 🛠️ Having a flexible work schedule
 - 🎯 Working towards todo list/inbox zero
 - 💨 Coding in [AeroSpec](https://www.aerospec.io/)
-- 📚 Time spent on [school work](https://cs.washington.edu/yzhao4/):
+- 📚 Time spent on [school work](https://cs.washington.edu/yzhao4/)
 - 📫 How to reach me: [my Linkedin](www.linkedin.com/in/yunweizhao)
 - 😀 Pronouns: he/him/they/...
 
