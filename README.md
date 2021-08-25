@@ -23,12 +23,11 @@
 </a>
   
   
-  - 贡献代码/文档给 AeroSpec
-    - [X] refactor codes
+  - 练习面试
     - [ ] 刷 LeetCode
   - 更新咕咕咕的项目
     - [ ] 更新[个人网站](https://ywzhao2002.github.io)
-    - [ ] 发布 Literati&Officialdom Portraits 更新
+    - [ ] 发布 Literati&Officialdom Portraits (cs.CV) 更新
 
 
 
