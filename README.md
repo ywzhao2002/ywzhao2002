@@ -7,7 +7,7 @@ tats">
 
 - 🔭 I’m currently working in AeroSpec and Husky Help Organization.
 - 🌱 I’m currently learning Natural Language Processing, Computer Vision, and GRE.
-- 📫 How to reach me: [My Linkedin](www.linkedin.com/in/yunweizhao)
+- 📫 How to reach me: [my Linkedin](www.linkedin.com/in/yunweizhao)
 - 😀 Pronouns: he/him/they/...
 
 
