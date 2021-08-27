@@ -1,4 +1,4 @@
-**Hi there 👋**
+**Hi there.**  👋
 **Thanks for visiting!**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
