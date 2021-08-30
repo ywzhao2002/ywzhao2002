@@ -14,6 +14,9 @@
 - 😀 Pronouns: he/him/...
 
 
+### 🌱 Visitor Count 🌱
+<img src="https://profile-counter.glitch.me/ywzhao2002/count.svg" />
+
 ---
 
 <details>
