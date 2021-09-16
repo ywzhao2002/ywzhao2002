@@ -2,7 +2,7 @@
 **Thanks for visiting!**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ywzhao2002&v=2" alt="Yunwei's Github stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ywzhao2002" alt="Yunwei's Github stats">
 </a>
 
 - 🌱 I’m currently learning Natural Language Processing, Computer Vision, and GRE.
