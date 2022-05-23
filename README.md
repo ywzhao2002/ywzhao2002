@@ -1,9 +1,11 @@
 **Hi there**  👋  
 **Thanks for visiting!**
 
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ywzhao2002&v=2" alt="Yunwei's Github stats">
 </a>
+</div>
 
 <!-- - 🌱 I’m currently learning Natural Language Processing, Computer Vision, and GRE.
 - 🛠️ Having a flexible work schedule
@@ -15,8 +17,9 @@
  -->
 
 ### ✨ Visitor Count ✨
+<div>
 <img src="https://profile-counter.glitch.me/ywzhao2002/count.svg" />
-
+</div>
 ---
 
 <!-- <details>
